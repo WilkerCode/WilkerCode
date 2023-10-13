@@ -17,7 +17,7 @@
 <div align="center"> 
 <a href="https://instagram.com/Wilker_Dev" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
   <a href = "mailto:cmp.1a.WilkerProgramer2005@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="(https://www.linkedin.com/in/wilker-junio-45b785294/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/wilker-junio-45b785294/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
 <a href="https://www.behance.net/wilkerjunio" target="_blank"><img src="https://img.shields.io/badge/-behance-%2300F?style=for-the-badge&logo=behance&logoColor=white"</a>
   <a href="https://twitter.com/wilkerjunio15" target="_blank"><img src="https://img.shields.io/badge/-twitter-%23FFFFFF?style=for-the-badge&logo=twitter&logoColor=blue"</a>
  </div>
