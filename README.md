@@ -36,9 +36,10 @@
 ![PHP](https://img.shields.io/badge/-PHP-0D1117?style=for-the-badge&logo=PHP&labelColor=0D1117&textColor=0D1117)&nbsp;
 ![CSS](https://img.shields.io/badge/-CSS-0D1117?style=for-the-badge&logo=CSS3&logoColor=1572B6&labelColor=0D1117)&nbsp;![PYTHON](https://img.shields.io/badge/-Python-0D1117?style=for-the-badge&logo=Python&labelColor=0D1117&textColor=0D1117)&nbsp;
 
-
+### 🎶 Estou ouvindo Spotify agora! 🎧
 
 [![Spotify](https://novatorem-i32p265ej-wilkers-projects.vercel.app/api/spotify )](https://open.spotify.com/user/MoedrnoProgramer )
+
 <div align="center">
 <br><p align="centre"><b>Visitors Count</b></p>  
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{WilkerCode}/count.svg" /></p> 
